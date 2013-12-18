@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"classmap": [
+			"controllers",
+			"models",
+			"records",
+			"services",
+			"variables"
+		]
+	}
+}
